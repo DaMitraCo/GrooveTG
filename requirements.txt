@@ -1,6 +1,5 @@
-pyrogram==1.4.16
-py-tgcalls==0.8.6
-pyyaml==5.3.1
+pyrogram==1.3.6
+py-tgcalls==0.8.2
 parse-torrent-name
 tgcrypto
 yt-dlp
@@ -9,9 +8,8 @@ httpx==0.23.0
 youtube-search
 heroku3
 pillow
-motor==3.0.0
+motor
 dnspython
 pytz
 apscheduler
 python-dotenv
-ffmpeg-python
